@@ -1,0 +1,29 @@
+.button-style{
+    border-radius: 5px;
+    border-color: rgb(158, 158, 158);
+    background-color: rgb(157, 157, 157);
+    margin: 2px;
+    width: 70px;
+    height: 70px;
+    transform: translateX(300px) translateY(250px);
+    cursor: pointer;
+    
+}
+
+h1{
+    transform:translateX(290px) translateY(250px);
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+}
+
+.reset{
+        border-radius: 5px;
+        border-color: rgb(158, 158, 158);
+        background-color: rgb(157, 157, 157);
+        margin: 2px;
+        width: 80px;
+        height: 30px;
+        transform: translateX(375px) translateY(240px);
+        cursor: pointer;
+
+}
